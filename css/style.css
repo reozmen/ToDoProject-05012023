@@ -1,0 +1,12 @@
+.delete,
+p {
+  display: inline-block;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+.addTask {
+  margin-left: 50px;
+}
